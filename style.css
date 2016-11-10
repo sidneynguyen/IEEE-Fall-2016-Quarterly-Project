@@ -1,0 +1,23 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0px; padding: 0px;
+    width: 100%;
+    background: #aabbcc;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+
+#algae_pic {
+    width: 100%;
+}
+
+.data {
+    text-align: center;
+    display: inline-block;
+    margin: 0px 128px;
+}
