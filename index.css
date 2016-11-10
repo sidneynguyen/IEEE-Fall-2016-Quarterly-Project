@@ -1,0 +1,13 @@
+#algae_pic {
+    width: 100%;
+}
+
+.data {
+    text-align: center;
+    display: inline-block;
+    margin: 0px 128px;
+}
+
+#anim_title {
+    text-align: center;
+}
